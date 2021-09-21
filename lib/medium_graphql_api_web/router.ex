@@ -1,4 +1,3 @@
-
 defmodule MediumGraphqlApiWeb.Router do
   use MediumGraphqlApiWeb, :router
 
